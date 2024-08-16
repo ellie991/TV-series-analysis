@@ -22,16 +22,10 @@ Technologies and Libraries Used
 - Topic Modeling: gensim, scikit-learn
 - Data Processing and Visualization: pandas, numpy, matplotlib, seaborn
 
-Repository Structure
-
-- `data/`: Contains the raw and processed data used in the analysis.
-- `code/`: Includes Python scripts for each step of the analysis.
-- `reports/`: Contains the final summary report in PDF format.
-
 How to Run the Code
 
 To run the scripts, ensure that all dependencies listed in `requirements.txt` are installed. You can execute each script individually, following the order suggested in the project overview.
 
 Results
 
-Our analysis revealed key differences in the sentiment trends and topics between the two series, reflecting their distinct narrative styles and character development arcs. The final report summarizing these results is available in the `reports/` folder. (Please note: The report is in Italian.)
+Our analysis revealed key differences in the sentiment trends and topics between the two series, reflecting their distinct narrative styles and character development arcs. The final report summarizing these results is available in the "REPORT" file. (Please note: The report is in Italian.)
