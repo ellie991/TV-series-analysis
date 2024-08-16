@@ -48,10 +48,12 @@ SOME EXTRACTED GHRAPS
 
 <img width="457" alt="Screenshot 2024-08-16 alle 12 27 20" src="https://github.com/user-attachments/assets/0e0c0885-ea28-459c-9b6f-8a6773ca10a9">
 
-<img width="424" alt="Screenshot 2024-08-16 alle 12 27 44" src="https://github.com/user-attachments/assets/3a333991-ef2b-
-42db-9eee-cc4ab5ade646">
+<img width="424" alt="Screenshot 2024-08-16 alle 12 27 44" src="https://github.com/user-attachments/assets/47a83682-70ac-404a-b8cd-9775c5bf29aa">
 
 <img width="390" alt="Screenshot 2024-08-16 alle 12 27 50" src="https://github.com/user-attachments/assets/731b60a8-4595-4a9d-9ee3-99db7fdec3ba">
+
+
+
 
 
 
@@ -60,6 +62,8 @@ SOME EXTRACTED GHRAPS
 <img width="515" alt="Screenshot 2024-08-16 alle 12 23 21" src="https://github.com/user-attachments/assets/297572ea-145e-469e-9954-92ad02ad1ba6">
 
 <img width="471" alt="Screenshot 2024-08-16 alle 12 23 30" src="https://github.com/user-attachments/assets/0be64866-3b66-4a54-ba91-57fddb01f49a">
+
+
 
 
 
