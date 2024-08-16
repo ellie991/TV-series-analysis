@@ -33,22 +33,37 @@ TOPIC MODELING: The Vampire Diaries focuses on themes such as romance, vengeance
 These findings highlight the distinct narrative and thematic approaches of the two series.
 
 SOME EXTRACTED GHRAPS 
+
 1. SENTIMENTAL ANALYSIS
 
+<img width="380" alt="Screenshot 2024-08-16 alle 12 26 15" src="https://github.com/user-attachments/assets/b3a01906-a7b3-414d-82af-f76a8f8a01d2">
 
+<img width="382" alt="Screenshot 2024-08-16 alle 12 26 08" src="https://github.com/user-attachments/assets/e9360d32-3c0a-4966-871b-b1eb042bc1ee">
 
+<img width="447" alt="Screenshot 2024-08-16 alle 12 25 53" src="https://github.com/user-attachments/assets/6ec26fff-6789-49d4-b322-0602b2a68fcd">
 
+<img width="499" alt="Screenshot 2024-08-16 alle 12 25 42" src="https://github.com/user-attachments/assets/6db3bc4a-5256-4a0b-8211-18655355c118">
+
+<img width="465" alt="Screenshot 2024-08-16 alle 12 27 58" src="https://github.com/user-attachments/assets/b1b8296e-a94b-4b19-9a10-cbe734d4226e">
+
+<img width="457" alt="Screenshot 2024-08-16 alle 12 27 20" src="https://github.com/user-attachments/assets/0e0c0885-ea28-459c-9b6f-8a6773ca10a9">
+
+<img width="424" alt="Screenshot 2024-08-16 alle 12 27 44" src="https://github.com/user-attachments/assets/3a333991-ef2b-
+42db-9eee-cc4ab5ade646">
+
+<img width="390" alt="Screenshot 2024-08-16 alle 12 27 50" src="https://github.com/user-attachments/assets/731b60a8-4595-4a9d-9ee3-99db7fdec3ba">
 
 
 
 2. TOPIC MODELING VISUALIZATION
+   
+<img width="515" alt="Screenshot 2024-08-16 alle 12 23 21" src="https://github.com/user-attachments/assets/297572ea-145e-469e-9954-92ad02ad1ba6">
 
-<img width="515" alt="Screenshot 2024-08-16 alle 12 23 21" src="https://github.com/user-attachm<img width="471" alt="Screenshot 2024-08-16 alle 12 23 30" src="https://github.com/user-attachments/assets/1f4e0485-ad28-4513-80a4-d00bf5ad0381">
-ents/assets/661105f9-a43e-42b7-9a08-02a3431674db">
-![Uploading Screenshot 2024-08-16 alle 12.23.30.png…]()
+<img width="471" alt="Screenshot 2024-08-16 alle 12 23 30" src="https://github.com/user-attachments/assets/0be64866-3b66-4a54-ba91-57fddb01f49a">
 
 
-3. WORDCLOUD
+
+4. WORDCLOUD
 
 <img width="756" alt="Screenshot 2024-08-16 alle 12 24 00" src="https://github.com/user-attachments/assets/ff1508b7-6c83-49df-8f72-ad66e5ffbc42">
 
