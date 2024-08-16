@@ -32,10 +32,24 @@ Our analysis revealed key differences in the sentiment trends and topics between
 TOPIC MODELING: The Vampire Diaries focuses on themes such as romance, vengeance, and supernatural elements; The Big Bang Theory centers on science, relationships, and pop culture.
 These findings highlight the distinct narrative and thematic approaches of the two series.
 
-GHRAPS:
+SOME EXTRACTED GHRAPS 
+1. SENTIMENTAL ANALYSIS
 
-TOPIC MODELING VISUALIZATION
-<img width="515" alt="Screenshot 2024-08-16 alle 12 23 21" src="https://github.com/user-attachments/assets/661105f9-a43e-42b7-9a08-02a3431674db">
 
+
+
+
+
+
+2. TOPIC MODELING VISUALIZATION
+
+<img width="515" alt="Screenshot 2024-08-16 alle 12 23 21" src="https://github.com/user-attachm<img width="471" alt="Screenshot 2024-08-16 alle 12 23 30" src="https://github.com/user-attachments/assets/1f4e0485-ad28-4513-80a4-d00bf5ad0381">
+ents/assets/661105f9-a43e-42b7-9a08-02a3431674db">
+![Uploading Screenshot 2024-08-16 alle 12.23.30.png…]()
+
+
+3. WORDCLOUD
+
+<img width="756" alt="Screenshot 2024-08-16 alle 12 24 00" src="https://github.com/user-attachments/assets/ff1508b7-6c83-49df-8f72-ad66e5ffbc42">
 
 
